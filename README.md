@@ -1,1 +1,4 @@
-# veri-bilimine-giris
+# VERİ BİLİMİNE GİRİŞ
+
+Verilerin değişkenlik göstermesi beni en çok etkileyen alanlardan biri. Her ne kadar sabit veri bilgileri olsada. Kesinlik ve doğruluğun kanıtlanması imkansız. Veri biliminde ise onca olasılıklar arasından doğru öngörüde bulunmak. Doğru analiz etmek için bir sürü alandan yardım alması gibi. Matematik, istatistik, yapay zeka gibi. Verilerden elde edilen analizlerle ortaya çıkan sonuçlar. Bu verilerle neler yapılabilir? 
+Veri bilimi ile farklı alanlarda inovasyonlar, gelecekte veya geçmişte olacak olaylar hakkında bilgiler elde edilebilir. Gerçekleşen olayların sebep ve sonuçlarını tahmin edebiliriz. Verilerin bu çok yönlü kullanılabilmesi hayatımıza çok fazla katkı sağlıyor. Ama aynı zamanda korkutuyorda. Çünkü verilerin bu çok yönlü kullanılabilmesi, yapay zeka ile birlikte korkunç bir hal alıyor. İnsanların atmadan atabileceği adımları öngörülebilir. 
